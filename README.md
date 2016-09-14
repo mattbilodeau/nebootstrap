@@ -1,5 +1,7 @@
-WP BOOTSTRAP
+nebootstrap - based on wp-bootstrap
 ===================
+
+
 
 Bootstrap (http://getbootstrap.com) in WordPress theme form. 
 
@@ -11,11 +13,6 @@ ________
 We’ve built the WP Bootstrap theme so that it could be used as-is as a very basic theme or as a starting point for theme developers. It’s built on top of the Bones theme framework by Eddie Machado and based on v3.0.3 of Bootstrap.
 
 Watch or star this project to keep up with its progress.
-
-Multi-Lingual
-_____________
-
-WP-Bootstrap is translated in 4 languages - Spanish, French, Portuguese and German. 
 
 Page Templates
 ______________
